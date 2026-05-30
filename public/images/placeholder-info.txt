@@ -1,0 +1,25 @@
+==============================================
+  HOW TO ADD YOUR PHOTOS
+==============================================
+
+1. PROFILE PHOTO (Hero section)
+   File name : profile.jpg
+   Location  : public/images/profile.jpg
+   Ideal size: 800x1000px (portrait, face clearly visible)
+   Format    : JPG or WebP (for fastest load)
+
+2. ABOUT PHOTO (About section)
+   File name : about.jpg
+   Location  : public/images/about.jpg
+   Ideal size: 600x800px (portrait or candid work shot)
+   Format    : JPG or WebP
+
+TIPS FOR FAST LOADING:
+- Compress images at https://squoosh.app before adding
+- Target file size: under 200KB each
+- JPG quality 80% is a good balance
+- WebP format gives best performance
+
+AFTER ADDING YOUR PHOTOS:
+Run `npm run build` to verify everything is fine.
+==============================================
