@@ -20,6 +20,7 @@ const technicalSkills = [
       { name: "Node.js", level: 88 },
         { name: "Python", level: 70 },
         { name: "Nest.js", level: 60 },
+        { name: "C, c++, c#, .NET", level: 60 },
       { name: "Express.js", level: 87 },
       { name: "REST API Design", level: 90 },
       { name: "Socket.IO", level: 82 },
