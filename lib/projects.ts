@@ -25,6 +25,18 @@ export const projects: Project[] = [
     featured: true,
     status: "live",
   },
+    {
+        id: 2,
+        title: "BINANCE FUTURE TRADING BOT",
+        description:
+          "is a full-stack web application that allows users to simulate and place trades on the Binance Futures Testnet. It provides a clean dashboard to place Market, Limit, and Trailing Stop orders, while also showing account balances and open positions in real time.\n" +
+            "\n" +
+            "The system is designed with a FastAPI backend that securely handles Binance API interactions, and a modern Next.js frontend that provides an intuitive trading interface. It is built for learning, testing trading strategies, and understanding how algorithmic trading systems work.",
+        url: "https://binance-futures-trading-bot-psi.vercel.app/",
+        tags: ["Python", "Binance API", "Next.js","FastAPI"],
+        featured: true,
+        status: "live",
+    }
   // ─────────────────────────────────────────────────────────
   // TEMPLATE — copy and paste to add a new project:
   // {
