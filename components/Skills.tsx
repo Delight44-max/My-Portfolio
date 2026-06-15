@@ -10,6 +10,7 @@ const technicalSkills = [
       { name: "JavaScript (ES6+)", level: 93 },
       { name: "Tailwind CSS", level: 88 },
       { name: "HTML & CSS", level: 95 },
+        {name: "React-Native", level: 88},
     ],
   },
   {
