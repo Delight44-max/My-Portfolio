@@ -69,7 +69,7 @@ export const projects: Project[] = [
       id: 3,
     title: "field service report System",
       description: "for reporting monthy field service for congregation.",
-      url: "https://field-service-report-system.vercel.app",
+      url: "https://field-service-report-system.vercel.app/setup",
     tags: ["Next.js", "TypeScript", "PostgreSQL", "Java", "Spring boot", "Spring security",],
        featured: false,
       status: "live",
