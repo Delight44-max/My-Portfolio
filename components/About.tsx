@@ -60,7 +60,9 @@ export default function About() {
                             style={{
                                 position: "relative",
                                 width: "100%",
-                                aspectRatio: "3 / 4",
+                                maxWidth:"900px",
+                                margin: "0 auto",
+                                aspectRatio: "4 / 3",
                                 borderRadius: "10px",
                                 overflow: "hidden",
                                 background: "var(--border)",
@@ -70,9 +72,9 @@ export default function About() {
                                 src="/images/about.webp"
                                 alt="Delight Eboagoro"
                                 fill
-                                sizes="(max-width:768px)100vw,400px"
+                                sizes="(max-width:768px)100vw,900px"
                                 style={{
-                                    objectFit: "cover",
+                                    objectFit: "contain",
                                     objectPosition: "center",
                                 }}
                                 placeholder="blur"
